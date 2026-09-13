@@ -39,7 +39,7 @@
         <checkstyle.headerLocation>${project.parent.basedir}/checkstyle/ClassHeaderHazelcastCommunity.txt</checkstyle.headerLocation>
 
         <confluent.version>7.4.0</confluent.version>
-        <immutables.version>2.9.3</immutables.version>
+        <immutables.version>2.12.2</immutables.version>
     </properties>
 
     <build>
