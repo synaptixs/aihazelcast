@@ -116,7 +116,7 @@
         <kafka.version>3.4.1</kafka.version>
         <kotlin.version>1.8.22</kotlin.version>
         <reload4j.version>1.2.25</reload4j.version>
-        <log4j2.version>2.20.0</log4j2.version>
+        <log4j2.version>2.26.1</log4j2.version>
         <mysql.connector.version>8.0.33</mysql.connector.version>
         <netty.version>4.1.93.Final</netty.version>
         <objenesis.version>3.3</objenesis.version>
