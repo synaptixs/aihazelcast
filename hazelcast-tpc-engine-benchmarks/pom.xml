@@ -21,7 +21,7 @@
         <main.basedir>${project.parent.basedir}</main.basedir>
         <maven.ant-run-plugin>3.1.0</maven.ant-run-plugin>
 
-        <jmh.version>1.36</jmh.version>
+        <jmh.version>1.37</jmh.version>
          <uberjar.name>benchmarks</uberjar.name>
     </properties>
 
