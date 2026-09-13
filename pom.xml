@@ -1854,7 +1854,7 @@
             <dependency>
                 <groupId>org.checkerframework</groupId>
                 <artifactId>checker-qual</artifactId>
-                <version>3.35.0</version>
+                <version>4.2.3</version>
             </dependency>
             <dependency>
                 <groupId>org.antlr</groupId>
